@@ -1,0 +1,51 @@
+nav{
+    background-color: white;
+    justify-content: right;
+    padding: 20px;
+    text-align: right;
+}
+nav a{
+    text-decoration: none;
+    padding: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(107, 105, 105);
+
+}
+button{
+    padding: 10px;
+    color: aliceblue;
+    background-color: rgb(43, 163, 243);
+    border-radius: 30px;
+    border: none;
+}
+.h{
+    color: aqua;
+}
+nav a:hover{
+    color: aqua;
+}
+.btn{
+    background-color: aliceblue;
+    border: 2px solid rgb(25, 167, 250);
+    color:  rgb(25, 167, 250);
+    padding: 10px 30px;
+
+}
+.btn:hover{
+    background-color:  rgb(25, 167, 250);
+    color: white;
+}
+.main{
+    display: flex;
+}
+.tc{
+    padding: 30px;
+
+}
+.ic{
+    margin-left:300px ;
+    padding: 30px;
+}
+.image{
+   
+}
